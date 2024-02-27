@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo
+module github.com/robermar23/langchaingo
 
 go 1.21
 
