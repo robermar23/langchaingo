@@ -5,9 +5,9 @@ import (
 	"errors"
 	"os"
 
-	"github.com/tmc/langchaingo/callbacks"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/anthropic/internal/anthropicclient"
+	"github.com/robermar23/langchaingo/callbacks"
+	"github.com/robermar23/langchaingo/llms"
+	"github.com/robermar23/langchaingo/llms/anthropic/internal/anthropicclient"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/ollama-chat-example
+module github.com/robermar23/langchaingo/examples/ollama-chat-example
 
 go 1.21
 

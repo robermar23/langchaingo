@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/huggingface-milvus-vectorstore-example
+module github.com/robermar23/langchaingo/examples/huggingface-milvus-vectorstore-example
 
 go 1.21
 

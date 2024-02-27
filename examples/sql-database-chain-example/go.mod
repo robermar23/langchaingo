@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/sql-database-chain-example
+module github.com/robermar23/langchaingo/examples/sql-database-chain-example
 
 go 1.21
 

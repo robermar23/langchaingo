@@ -3,7 +3,7 @@ package llms
 import (
 	"encoding/json"
 
-	"github.com/tmc/langchaingo/schema"
+	"github.com/robermar23/langchaingo/schema"
 )
 
 // MessageContent is the content of a message sent to a LLM. It has a role and a

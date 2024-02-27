@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-gpt4-turbo-example
+module github.com/robermar23/langchaingo/examples/openai-gpt4-turbo-example
 
 go 1.21
 

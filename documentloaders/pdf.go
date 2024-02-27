@@ -5,8 +5,8 @@ import (
 	"io"
 
 	"github.com/ledongthuc/pdf"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/textsplitter"
+	"github.com/robermar23/langchaingo/schema"
+	"github.com/robermar23/langchaingo/textsplitter"
 )
 
 // PDF loads text data from an io.Reader.

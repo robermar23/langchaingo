@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/vertex-completion-example
+module github.com/robermar23/langchaingo/examples/vertex-completion-example
 
 go 1.21.1
 

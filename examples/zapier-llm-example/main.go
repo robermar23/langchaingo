@@ -4,11 +4,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/tmc/langchaingo/agents"
-	"github.com/tmc/langchaingo/chains"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/tools"
-	"github.com/tmc/langchaingo/tools/zapier"
+	"github.com/robermar23/langchaingo/agents"
+	"github.com/robermar23/langchaingo/chains"
+	"github.com/robermar23/langchaingo/llms/openai"
+	"github.com/robermar23/langchaingo/tools"
+	"github.com/robermar23/langchaingo/tools/zapier"
 )
 
 func main() {

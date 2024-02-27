@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/basic-llm-example
+module github.com/robermar23/langchaingo/examples/basic-llm-example
 
 go 1.21
 

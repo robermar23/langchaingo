@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/http/httputil"
 
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/openai"
+	"github.com/robermar23/langchaingo/llms"
+	"github.com/robermar23/langchaingo/llms/openai"
 )
 
 var flagDebugHTTP = flag.Bool("debug-http", true, "enable debugging of HTTP requests and responses")

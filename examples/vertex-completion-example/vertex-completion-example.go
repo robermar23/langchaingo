@@ -9,8 +9,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/llms/googleai/vertex"
+	"github.com/robermar23/langchaingo/llms"
+	"github.com/robermar23/langchaingo/llms/googleai/vertex"
 )
 
 func main() {

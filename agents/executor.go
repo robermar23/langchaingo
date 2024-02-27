@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/tmc/langchaingo/callbacks"
-	"github.com/tmc/langchaingo/chains"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/tools"
+	"github.com/robermar23/langchaingo/callbacks"
+	"github.com/robermar23/langchaingo/chains"
+	"github.com/robermar23/langchaingo/schema"
+	"github.com/robermar23/langchaingo/tools"
 )
 
 const _intermediateStepsOutputKey = "intermediateSteps"

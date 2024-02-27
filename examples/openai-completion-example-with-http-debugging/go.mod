@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-completion-example-with-http-debugging
+module github.com/robermar23/langchaingo/examples/openai-completion-example-with-http-debugging
 
 go 1.21
 

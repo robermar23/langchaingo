@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/openai-readme
+module github.com/robermar23/langchaingo/examples/openai-readme
 
 go 1.21
 

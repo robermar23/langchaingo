@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/anthropic-completion-example
+module github.com/robermar23/langchaingo/examples/anthropic-completion-example
 
 go 1.21
 

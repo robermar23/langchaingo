@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/tmc/langchaingo/prompts"
+	"github.com/robermar23/langchaingo/prompts"
 )
 
 func main() {

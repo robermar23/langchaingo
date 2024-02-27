@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/ernie-completion-example
+module github.com/robermar23/langchaingo/examples/ernie-completion-example
 
 go 1.21
 

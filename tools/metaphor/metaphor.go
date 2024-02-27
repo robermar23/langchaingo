@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/metaphorsystems/metaphor-go"
-	"github.com/tmc/langchaingo/tools"
+	"github.com/robermar23/langchaingo/tools"
 )
 
 var _ tools.Tool = &API{}

@@ -1,4 +1,4 @@
-module github.com/tmc/langchaingo/examples/sequential-chain-example
+module github.com/robermar23/langchaingo/examples/sequential-chain-example
 
 go 1.21
 

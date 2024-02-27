@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tmc/langchaingo/callbacks"
-	"github.com/tmc/langchaingo/chains"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/prompts"
+	"github.com/robermar23/langchaingo/callbacks"
+	"github.com/robermar23/langchaingo/chains"
+	"github.com/robermar23/langchaingo/llms/openai"
+	"github.com/robermar23/langchaingo/prompts"
 )
 
 func main() {

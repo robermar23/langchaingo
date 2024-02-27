@@ -9,11 +9,11 @@ import (
 
 	chroma_go "github.com/amikos-tech/chroma-go"
 	"github.com/google/uuid"
-	"github.com/tmc/langchaingo/embeddings"
-	"github.com/tmc/langchaingo/llms/ollama"
-	"github.com/tmc/langchaingo/schema"
-	"github.com/tmc/langchaingo/vectorstores"
-	"github.com/tmc/langchaingo/vectorstores/chroma"
+	"github.com/robermar23/langchaingo/embeddings"
+	"github.com/robermar23/langchaingo/llms/ollama"
+	"github.com/robermar23/langchaingo/schema"
+	"github.com/robermar23/langchaingo/vectorstores"
+	"github.com/robermar23/langchaingo/vectorstores/chroma"
 )
 
 func main() {

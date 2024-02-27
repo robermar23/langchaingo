@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/robermar23/langchaingo/llms"
+	"github.com/robermar23/langchaingo/schema"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/schema"
 )
 
 func newTestClient(t *testing.T) *LLM {

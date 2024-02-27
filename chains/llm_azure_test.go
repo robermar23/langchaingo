@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/robermar23/langchaingo/llms/openai"
+	"github.com/robermar23/langchaingo/prompts"
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/prompts"
 )
 
 func TestLLMChainAzure(t *testing.T) {

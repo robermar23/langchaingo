@@ -8,9 +8,9 @@ import (
 	"strings"
 
 	"github.com/google/generative-ai-go/genai"
-	"github.com/tmc/langchaingo/internal/util"
-	"github.com/tmc/langchaingo/llms"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/robermar23/langchaingo/internal/util"
+	"github.com/robermar23/langchaingo/llms"
+	"github.com/robermar23/langchaingo/schema"
 	"google.golang.org/api/iterator"
 )
 
