@@ -14,6 +14,7 @@ import (
 type MessageContent struct {
 	Role  schema.ChatMessageType
 	Parts []ContentPart
+	Name  string
 }
 
 // TextPart creates TextContent from a given string.

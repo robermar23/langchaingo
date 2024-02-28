@@ -70,6 +70,7 @@ func (o *LLM) GenerateContent(ctx context.Context, messages []llms.MessageConten
 			msg.Role = RoleUser
 		case schema.ChatMessageTypeFunction:
 			msg.Role = RoleFunction
+			msg.Name = mc.Name
 		default:
 			return nil, fmt.Errorf("role %v not supported", mc.Role)
 		}

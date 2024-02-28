@@ -101,6 +101,12 @@ func (o *OpenAIFunctionsAgent) Plan(
 			Role:  role,
 			Parts: []llms.ContentPart{llms.TextContent{Text: text}},
 		}
+		if mc.Role == schema.ChatMessageTypeFunction {
+			asFunctionChatMessage, ok := msg.(schema.FunctionChatMessage)
+			if ok {
+				mc.Name = asFunctionChatMessage.Name
+			}
+		}
 		mcList[i] = mc
 	}
 
